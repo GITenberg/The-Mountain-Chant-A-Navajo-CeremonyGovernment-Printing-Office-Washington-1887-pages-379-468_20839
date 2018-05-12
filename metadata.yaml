@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7267'
     url: http://www.gutenberg.org/2009/agents/7267
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20839#The-Mountain-Chant-A-Navajo-CeremonyGovernment-Printing-Office-Washington-1887-pages-379-468
 gutenberg_bookshelf: Paganism
 gutenberg_issued: '2007-03-17'
 gutenberg_type: Text
